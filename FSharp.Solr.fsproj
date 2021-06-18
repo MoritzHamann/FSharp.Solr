@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>FSharp.Solr</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Moritz Hamann</Authors>
   </PropertyGroup>
 
   <ItemGroup>
